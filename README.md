@@ -24,8 +24,8 @@ through repeated feedback conditioned on observation priority.
 
 | 언어 (Language) | 포맷 (Format) | 링크 (Links) |
 |------------------|----------------|----------------|
-| 영어 (EN) | [PDF](paper/quantum-intent-feedback.pdf) \| [Markdown](paper/quantum-intent-feedback.md) |
-| 한국어 (KR) | [PDF](paper/quantum-intent-feedback(kor).pdf) \| [Markdown](paper/quantum-intent-feedback(kor).md) |
+| 영어 (EN) | [PDF](01.%20paper/quantum-intent-feedback.pdf) \| [Markdown](01.%20paper/quantum-intent-feedback.md) |
+| 한국어 (KR) | [PDF](01.%20paper/quantum-intent-feedback(kor).pdf) \| [Markdown](01.%20paper/quantum-intent-feedback(kor).md) |
 
 ---
 
