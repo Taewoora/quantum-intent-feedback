@@ -111,7 +111,9 @@ You are free to use, modify, and redistribute — with proper attribution.
 
 ## 📌 DOI 및 인용 정보 | DOI & Citation
 
-> DOI: `https://doi.org/10.xxxxx/zenodo.xxxxx` (To be added)
+[![DOI](https://zenodo.org/badge/967085760.svg)](https://doi.org/10.5281/zenodo.15226506)
+
+> DOI: https://doi.org/10.5281/zenodo.15226507 (v1.0.0 공식 릴리즈)
 
 ```bibtex
 @misc{quantum_intent_feedback_2025,
@@ -119,9 +121,10 @@ You are free to use, modify, and redistribute — with proper attribution.
   title        = {Quantum Intent Feedback},
   year         = 2025,
   publisher    = {Zenodo},
-  doi          = {10.xxxx/zenodo.xxxxx},
-  url          = {https://doi.org/10.xxxx/zenodo.xxxxx}
+  doi          = {10.5281/zenodo.15226507},
+  url          = {https://doi.org/10.5281/zenodo.15226507}
 }
+
 ```
 
 ---
