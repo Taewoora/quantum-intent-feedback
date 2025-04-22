@@ -181,4 +181,4 @@ demonstrating generative scientific collaboration between a human and an AI syst
 
 ---
 
-_Last updated: 2025-04-22 – Added topics and description metadata for GitHub indexing. 실험 흐름 구조도, 연관 리포 명시_
+_Last updated: 2025-04-22 – Added topics and description metadata for GitHub indexing. 실험 흐름 구조도, 연관 리포 명시, 라이선스 추가_
