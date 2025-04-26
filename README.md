@@ -1,6 +1,7 @@
 ![Topics: quantum, observer, feedback-loop](https://img.shields.io/badge/topics-quantum%2C%20observer%2C%20feedback--loop-blue)
 
-# Quantum Intent Feedback  
+# Quantum Intent Feedback (Structural Feedback Induction)
+  
 **관측은 확률을 붕괴시키는가, 아니면 구조를 정제하는가?**  
 **Does observation collapse probability — or refine structure?**
 
