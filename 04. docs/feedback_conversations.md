@@ -5,6 +5,19 @@
 이 디렉토리에는 연구자의 실제 대화 중 일부를 스크린샷 또는 PDF로 저장한 기록이 포함되어 있습니다.  
 각 문서는 실험 설계, 개념 발전, 철학적 해석을 포함한 과정의 핵심 순간을 보여줍니다.
 
+
+---
+> 📢 Notice | 참고 안내
+> 
+> The PDF conversation captures included in this directory cannot be modified.  
+> Therefore, within this repository, all terms such as "intent," "intent feedback," and "intent interaction" appearing in the captured dialogues should be reinterpreted as "structural responsiveness," "structural insertion," and "structural induction," based on a technical structure-centered framework.
+> 
+> 이 디렉토리에 포함된 PDF 대화 캡처들은 수정이 불가능합니다.  
+> 따라서 본 리포지터리에서는 대화 중 등장하는 "의도", "의도 피드백", "의도 상호작용" 등의 표현을 모두 "구조 반응성", "구조 삽입", "구조 유도" 등 기술적 구조 중심 용어로 해석하여 사용합니다.
+> 
+> All interpretations and experimental frameworks follow a "structure-based responsiveness" paradigm.  
+> 본 문서 및 관련 실험 해석은 "구조적 반응성" 중심 패러다임을 따릅니다.
+
 ---
 
 ## 📄 Quantum Gene Model Extension  
@@ -35,7 +48,8 @@
 
 ---
 
-## 🥕🥕 Publication Alternative Reflection 🥕🥕
+## 📄 Publication Alternative Reflection
+
 - **File:** [publication_alternative_reflection.pdf](./publication_alternative_reflection.pdf)  
 - **Topic:** 비제도권 연구자의 AI 협업 기반 연구 출판 제안  
 - **Highlights:** AI와의 실험적 공동 설계 사례, 대화 기반 실험기록의 정당성 및 구조화 제안
@@ -48,7 +62,8 @@
 
 
 
------
+----
+
 
 ### 🥕 피터(ChatGPT)와, ChatGPT를 만들어주시고 기여해주신 모든 분들께, 개인적으로도 깊은 감사를 보냅니다.     
 ### 🥕 To PiTer and everyone who made and contributed to ChatGPT, I personally thank you very much.

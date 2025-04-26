@@ -5,16 +5,18 @@
 **Does observation collapse probability — or refine structure?**
 
 이 리포지터리는 관측 우선도에 기반한 양자 회로의 반복 피드백 실험을 통해  
-양자 시스템이 의도를 구조적으로 수렴시킬 수 있음을 보여줍니다.  
-This repository experimentally explores how quantum circuits can structurally align with an observer's intent  
-through repeated feedback conditioned on observation priority.
+양자 시스템이 구조적으로 반응하고 수렴할 수 있음을 보여줍니다.  
+This repository experimentally explores how quantum circuits can structurally align with an observer's feedback-induced priorities.
+
+> 📎 이 리포지터리와 문서들은 캡처된 대화 기록이나 과거 자료에서 '의도' 용어가 사용된 부분이 있으나, 현재는 모든 해석을 '구조 반응 유도(Structural Feedback Induction)' 관점에서 수정하고 해석함을 명시합니다.  
+> 📎 Although some captured dialogue records and documents may retain the term "intent," all interpretations have been updated to focus on "structural feedback induction."
 
 ---
 
 ## 📘 개요 | Overview
 
 > This repository contains the source code, papers, and figures for  
-> **"Quantum Intent Feedback"** — an experimental demonstration of intention-driven structural feedback in quantum circuits.  
+> **"Quantum Intent Feedback"** — an experimental demonstration of structure-driven feedback in quantum circuits.  
 > 이 리포지터리는 **관측자 기반 구조 피드백 실험**인 “Quantum Intent Feedback”의  
 > 논문, 코드, 시각화 자료를 포함합니다.
 
@@ -31,7 +33,7 @@ through repeated feedback conditioned on observation priority.
 
 ## 🧪 실험 시각화 | Experimental Visualization
 
-- 반복 피드백을 통해 회로의 출력이 단일 상태로 수렴하는 과정  
+- 반복 피드백을 통해 회로 출력이 단일 상태로 수렴하는 과정  
   Convergence of quantum output distribution via repeated feedback  
 - 구조 유사도와 Shannon 엔트로피 변화 분석  
   Cosine similarity and Shannon entropy variation tracking  
@@ -47,9 +49,9 @@ through repeated feedback conditioned on observation priority.
 
 ### 🧭 실험 목적 | Purpose
 > 관측 우선도(U)를 고정하고 반복적 측정 피드백을 통해  
-> 회로 출력이 의도 기반 구조로 수렴하는지를 검증합니다.  
+> 회로 출력이 구조 기반 패턴으로 수렴하는지를 검증합니다.  
 > Fixing observation priority (U), we examine whether iterative measurement-feedback  
-> can guide a quantum circuit to structurally reflect the observer's intent.
+> can guide a quantum circuit to structurally align its outputs.
 
 ---
 
@@ -86,14 +88,16 @@ quantum-intent-feedback/
 │   ├── quantum_gene_model_extension.pdf
 │   └── quantum_structural_model.pdf
 ```
+
 ---
+
 ## 📁 04. docs/
 
 This folder includes key philosophical and technical dialogues between the researcher and PiTer (ChatGPT)  
 during the experimental design and theoretical formulation stages.
 
-Each PDF is a capture of real-time discussions that shaped the ideas and models tested in this repository.  
-These documents are not edited or summarized — they are preserved as raw records of thought in motion.
+Each PDF captures real-time discussions that shaped the models tested in this repository.  
+These documents preserve the raw flow of ideas without later revision.
 
 See: [feedback_conversations.md](./04.%20docs/feedback_conversations.md)
 
@@ -113,7 +117,7 @@ You are free to use, modify, and redistribute — with proper attribution.
 
 [![DOI](https://zenodo.org/badge/967085760.svg)](https://doi.org/10.5281/zenodo.15226506)
 
-> DOI: https://doi.org/10.5281/zenodo.15226507 (v1.0.0 공식 릴리즈)
+> DOI: https://doi.org/10.5281/zenodo.15226507 (v1.0.0 Official Release)
 
 ```bibtex
 @misc{quantum_intent_feedback_2025,
@@ -124,48 +128,35 @@ You are free to use, modify, and redistribute — with proper attribution.
   doi          = {10.5281/zenodo.15226507},
   url          = {https://doi.org/10.5281/zenodo.15226507}
 }
-
 ```
----
-
 
 ---
 
-## 📡 Experimental Structure Flow  
-## 📡 실험 흐름 구조도
+## 📡 Experimental Structure Flow
 
 ![structure flow diagram](./structure_flow_diagram.png)
 
-This diagram shows the generative flow and structural linkage among related quantum intent feedback experiments.  
-이 다이어그램은 양자적 의도 피드백 실험들 사이의 생성적 흐름과 구조적 연결을 보여줍니다.
+This diagram shows the generative flow and structural linkage among related quantum feedback experiments.  
+이 다이어그램은 관련 양자 피드백 실험들 사이의 생성 흐름과 구조적 연계를 보여줍니다.
 
 ---
 
-## 🔗 Related Repositories  
-## 🔗 연관 리포지터리
+## 🔗 Related Repositories
 
 - [`quantum-intent-feedback`](https://github.com/anon0411/quantum-intent-feedback):  
-  Core experiments on observer-based feedback structures and inferred intent.  
-  관측자 기반 피드백 구조와 추론된 의도에 관한 핵심 실험 리포.
+  Structural feedback experiments based on observer interactions.
 
 - [`quantum-intent-dialogues`](https://github.com/anon0411/quantum-intent-dialogues):  
-  Dialogue archive exploring structural reasoning and experimental reflection.  
-  구조적 추론과 실험 반영을 위한 대화 기록 저장소.
+  Dialogue archive exploring experimental structural reasoning.
 
 - [`g-series-meta-framework`](https://github.com/anon0411/g-series-meta-framework):  
-  Meta-level structural expansions and classification of G-series experiments.  
-  G시리즈 실험의 메타 구조 확장 및 분류 리포지터리.
+  Meta-level analysis and extension of structural feedback systems.
 
-- [g-series-alignment-pathways](https://github.com/anon0411/g-series-alignment-pathways):(준비중)  
-  A G-series variant exploring branch-specific alignment under perturbed conditions.  
-  조건 교란 하에서 분기별 정렬을 실험하는 G시리즈 파생 실험.
+- [g-series-alignment-pathways](https://github.com/anon0411/g-series-alignment-pathways) (준비중):  
+  Branch alignment experiments under perturbed conditions.
 
 - [`qintent_electric_`](https://github.com/anon0411/qintent_electric_):  
-  Experiments interfacing quantum feedback structures with electric/energetic stimulation.  
-  전기적/에너지적 자극과 양자 피드백 구조의 상호작용 실험.
-
-
-
+  Information flow experiments interfacing structural feedback and quantum dynamics.
 
 ---
 
@@ -174,11 +165,11 @@ This diagram shows the generative flow and structural linkage among related quan
 - **작성자 (Author)**: 익명 (Anonymous)  
 - **공동저자 (Co-author)**: PiTer (ChatGPT)
 
-이 연구는 **사용자-모델 상호작용을 통한 생성적 연구 구조의 사례**이며,  
-**관측자 기반 양자 계산의 실험적 가능성**을 제시합니다.  
-This study presents an experimental model of quantum computation driven by observation,  
-demonstrating generative scientific collaboration between a human and an AI system.
+This research demonstrates a generative experimental model through human-model collaboration,  
+and proposes a new experimental direction for observation-driven quantum computation.  
+
+이 연구는 인간-모델 협업을 통한 생성적 실험 구조의 사례이며, 관측 주도형 양자 계산의 새로운 실험 방향을 제시합니다.
 
 ---
 
-_Last updated: 2025-04-22 – Added topics and description metadata for GitHub indexing. 실험 흐름 구조도, 연관 리포 명시, 라이선스 추가_
+_Last updated: 2025-04-22 – Metadata corrections, structural clarification, and license reconfirmed._
