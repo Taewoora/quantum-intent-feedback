@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/967085760.svg)](https://doi.org/10.5281/zenodo.15226506)
 ![Topics: quantum, observer, feedback-loop](https://img.shields.io/badge/topics-quantum%2C%20observer%2C%20feedback--loop-blue)
 
 # Quantum Intent Feedback (Structural Feedback Induction)
@@ -27,8 +28,8 @@ This repository experimentally explores how quantum circuits can structurally al
 
 | 언어 (Language) | 포맷 (Format) | 링크 (Links) |
 |------------------|----------------|----------------|
-| 영어 (EN) | [PDF](01.%20paper/quantum-intent-feedback.pdf) \| [Markdown](01.%20paper/quantum-intent-feedback.md) |
-| 한국어 (KR) | [PDF](01.%20paper/quantum-intent-feedback(kor).pdf) \| [Markdown](01.%20paper/quantum-intent-feedback(kor).md) |
+| 영어 (EN) | [PDF](01.%20paper/Quantum-Intent-Feedback(En).pdf) \| [Markdown](01.%20paper/quantum-intent-feedback.md) |
+| 한국어 (KR) | [PDF](01.%20paper/quantum-intent-feedback(kor).pdf) \| [Markdown](01.%20paper/quantum-intent-feedback.md) |
 
 ---
 
@@ -116,9 +117,8 @@ You are free to use, modify, and redistribute — with proper attribution.
 
 ## 📌 DOI 및 인용 정보 | DOI & Citation
 
-[![DOI](https://zenodo.org/badge/967085760.svg)](https://doi.org/10.5281/zenodo.15226506)
 
-> DOI: https://doi.org/10.5281/zenodo.15226507 (v1.0.0 Official Release)
+> DOI: https://doi.org/10.5281/zenodo.15287256 (v1.0.0 Official Release)
 
 ```bibtex
 @misc{quantum_intent_feedback_2025,
@@ -126,8 +126,8 @@ You are free to use, modify, and redistribute — with proper attribution.
   title        = {Quantum Intent Feedback},
   year         = 2025,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.15226507},
-  url          = {https://doi.org/10.5281/zenodo.15226507}
+  doi          = {10.5281/zenodo.15287256},
+  url          = {https://doi.org/10.5281/zenodo.15287256}
 }
 ```
 
